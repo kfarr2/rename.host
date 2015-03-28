@@ -6,4 +6,4 @@ A short script that lets you set your VM hostname to something random
 
 Make the script executable and
 
-  ./changehost.sh
+	./changehost.sh
