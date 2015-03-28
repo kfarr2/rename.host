@@ -1,9 +1,9 @@
-# rename.host
+# Rename.host
 
-A short script that lets you set your VM hostname to something random
+A script that sets your VM hostname to something random. (Don't worry, it'll ask you first.)
 
 ## Instructions
 
-Make the script executable and
+Make the script executable then
 
 	./changehost.sh
